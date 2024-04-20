@@ -1,0 +1,15 @@
+[project]
+name = "cardioid"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Hailin Wang", email = "wanghailin@tongji.edu.cn"},
+]
+dependencies = [
+    "matplotlib",
+    "sympy",
+    "numpy",
+]
+requires-python = ">=3.9"
+readme = "README.md"
+license = {text = "MIT"}
